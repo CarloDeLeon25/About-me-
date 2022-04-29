@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&family=Roboto+Mono:wght@100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('./pexels-instawalli-169789.jpg');
+    font-family: 'Italiana', sans-serif;
+}
+
+
+
+.name{
+    text-align: center;
+    color: ghostwhite;
+    font-size: 24px;
+    letter-spacing: 3px;
+    margin-top: 5em;
+    margin-bottom: 2em;
+}
+
+.image{
+    text-align: center;
+}
+
+p{
+    color: azure;
+    text-align: center;
+    padding: 5em;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+
+
+.btn{
+    display: block;
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+    color: ghostwhite;
+    margin-bottom: 10em;
+    transition-duration: 0.5s;
+}
+
+.btn:hover{
+    background-color:#F0FFFF;
+    color: black;
+}
