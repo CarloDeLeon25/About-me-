@@ -10,8 +10,6 @@ body{
     font-family: 'Italiana', sans-serif;
 }
 
-
-
 .name{
     text-align: center;
     color: ghostwhite;
@@ -32,8 +30,6 @@ p{
     font-size: 18px;
     letter-spacing: 1px;
 }
-
-
 
 .btn{
     display: block;
